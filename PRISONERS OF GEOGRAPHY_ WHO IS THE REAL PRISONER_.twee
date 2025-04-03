@@ -1,0 +1,555 @@
+:: StoryTitle
+PRISONERS OF GEOGRAPHY: WHO IS THE REAL PRISONER?
+
+
+:: StoryData
+{
+  "ifid": "98D4F57A-2E2C-4AC2-B2F7-2DEDF33B1756",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "INTRO",
+  "zoom": 0.3
+}
+
+
+:: (GEO)POLITICAL POWER ANALYSIS {"position":"800,550","size":"100,100"}
+The traveller’s face darkens as he flips through the book’s pages. He stops at the passage on interethnic violence.
+
+"‘There was, is, and always will be trouble in Xinjiang.’(Marshall, 2016) What do you think of that sentence?"
+
+You contemplate on the line. "This is a dangerous statement to say. If a region is framed as unstable, then any foreign actions towards it can be justified. It seems the book avoids calling what is happening to the Uighurs a genocide so that the West isn't called a hypocrite for their double standards around the world when they prioritize power over human rights."
+
+The traveller sighs.
+
+"If you read onwards in the book, it calls the movement ‘nationalist first, Islamic second.’ Why do you think that matters?"
+
+"Because ‘Islamic’ is associated with terrorism in Western narratives. The narrative is trying to paint Uighurs as dangerous by playing onwards with existing biases tied to Islam. That way, they can be painted as a threat, which is a rare occasion that the West is siding with China-only to hide their own wrongdoings."
+
+
+The Traveller nods. "Remember, geopolitical power allows for "Exercising regional influence"(Yusuf, 2025), which is something China is clearly exercising in this region.
+
+"Now, you must answer a riddle if you want to prove you are worthy of what you seek."
+
+Do you accept his riddle?
+
+[[ACCEPT]]
+[[REJECT]]
+
+
+:: ACCEPT {"position":"850,725","size":"100,100"}
+The man leans back in his chair, and turns towards you.
+
+"True or False? The portrayal of Xinjiang as an unstable region in Western media justifies foreign intervention and avoids acknowledging the Uighur genocide.."
+
+[[TRUE]]
+[[FALSE]]
+
+
+:: ANALYSING CHINA+TAIWAN'S SOFT AND TECHNOLOGICAL POWER {"position":"775,1175","size":"100,100"}
+You take a moment before answering Mei's question, thinking about how to approach the topic and contents of the book in a critical geopolitical manner.
+
+“It’s interesting to see how China’s ambition for Taiwan is narrated in the book," you begin. As stated in the 'Prisoners of Geography', ‘The Chinese are determined to have Taiwan but are nowhere near being able to challenge it militarily. So, they’ve turned to soft power, a strategy of increasing trade and tourism between the two states, hoping to draw Taiwan closer through economic integration rather than force (Marshall, 2016)."
+
+Mei raises an eyebrow, intrigued. “So he's saying they’re trying to pull Taiwan in through social influence?”
+
+You nod. “Exactly. The Chinese government knows that direct military confrontation isn’t feasible right now. Instead, they’re using other cards of the deck of power to have an impact on Taiwan, and in this case it's Soft and Economic power. By doing so, it is creating an invisible tie to Taiwan so that they feel a need for dependance with China."
+
+Mei takes a moment to think about your statement, taking a sip of tea. "But Taiwan is a democracy, and it has its own stronghold of technical power. The people of Taiwan value its sovereignty and the nation still has some cards, albeit not many. 'Taiwan also plays a key role in the technology rivalry between the US and China'(Hilpert, 2022). Much like the Western misinterpretation of the Arab Spring, there’s this naive belief that liberal democracy is a universal solution. But the truth is, ‘A few outside observers thought the postwar years might bring liberal democracy to China. It was wishful thinking akin to the naive nonsense Westerners wrote during the early days of the recent Arab Spring’ (Marshall, 2016). Democracy as an ideology doesn’t always fit every country or region’s internal dynamics.”
+
+You nod, considering what Mei has said. This gives rise to answer an important question, and a key aspect of your mission. "Here, the media is introducing and challenging dominant ideas about China and its people by pushing the narrative that democracy is the one true solution, described often as "pure and simple, being a synthesis of political freedom and political equality (Munck, 2014)".
+
+Mei nods thoughtfully. “I see what you’re saying. It's important to understand that across the world, political ideologies can never be 'one size fits all'. There are always other key factors that are in play, including culture and the influence of soft power. It is also important to note Taiwan's technological power, especially in the microprocessor industry. As stated by the Journal of Contemporary China,"Because of Taiwan's strength in building a POLIS, the PRC can also benefit from continuing contact with Taiwan through trade and FDI from Taiwan. (Khan, 2006)"
+
+You agree, finishing your tea. “Exactly. There are many layers to the situation that China and Taiwan are in, and both have their own cards of power. Too often, however, especially with Eurocentric thinkers, such situations are oversimplified, especially due to their bias against China and belief that democracy is the one true answer for all countries, despite their own democracy having flaws. It is important that Taiwan takes a stand for its own future, rather than attempting to follow foreign ideologies that might not fit what the people need."
+
+[[CONTINUE|SOFT + TECHNOLOGICAL POWER]]
+
+
+:: ANALYSIS: YELIZOVO {"position":"2900,600","size":"100,100"}
+''YOU HAVE GAINED A CARD!''
+
+
+''GEOGRAPHIC POWER''
+(set: $regions to $regions + 1)
+
+The bear smiles at you, as you quickly pocket the card. "It is true that Russia has a vast amount of land, and over history this has been more of a blessing than a curse. For centuries, this land has protected us from invasions from our neighbors, and allowed us to have control over the largest amount of space in the world."
+
+The bear slowly starts turning back into stone.
+
+"Save travels, O traveller," she says, as she turns back into a statue. You wipe an unexpected tear from your face, the card humming in your hand. A static feeling covers you, and everything goes black.
+
+[[CONTINUE|CONTROL ROOM]]
+
+
+:: Analysing Russia {"position":"1900,100","size":"100,100"}
+The Historian opens up the book, flipping through the pages and pushing up his glasses. "Let us begin, shall we? With this passage..."Late in the last century overstretch, spending more money than was available, the economics of the madhouse in a land not designed for people, and defeat in the mountains of Afghanistan led to the fall of the USSR…”(Marshall, 2016).
+
+"A madhouse? A land not designed for people? Tell me now, what does this phrasing do?"
+
+You furrow your brows, recalling what you have learned from your travels. 
+
+"One question that arises is how consumers of this media are meant to perceive a nation when engaging with such narratives. The wording in Prisoners of Geography reinforces an "Us vs. Them" dynamic, shaping Russia as a hostile and dangerous nation. The collapse of the USSR was not due to a single cause but "a combination of economic crisis, the costly war in Afghanistan, and declining support for Marxism-Leninism" (Marples, 2015). However, the book’s phrasing implies that Russia’s geography itself is an obstacle, subtly shifting the narrative to suggest that fate, rather than political decisions, dictated the USSR’s downfall. Another line from the book reads, "Geography had its revenge on the ideology of the Soviets, and a more logical picture reappeared on the map, one where mountains, rivers, lakes and seas delineate where people live, how they are separated from each other…” (Marshall, 2016). This statement is indirectly stating that instead of the West versus Russia, it is geography as an entity against the nation, stating that the country is doomed to begin with. This is a dangerously biased statement, as it is sneakily being communicated with readers that the country is on a lower pedestal and at a disadvantage from other nations despite its size. Such narratives are additionally a Rather than the nature of the content, it is the wording which results in information becoming biased and harming certain groups; in this case, Russian people."
+
+The Historian leans back in his chair, pleased. "It seems you have learned much from your adventuring. But tell me now, how would Informational and Military Power be applied to this country and media analysis?"
+
+[[Continue|Russian Informational and Military Power]]
+
+
+
+
+
+:: CONCLUSION {"position":"2575,975","size":"100,100"}
+''CONCLUSION''
+
+You stand in the Control Room, holding the cards and feeling their power glow through you, thinking to yourself.
+
+The dominance of global superpowers is not restricted to military or economic power. Rather, it is a much deeper and significant battle of who gets to have a say, and who doesn't. By analyzing 'Prisoners of Geography' through a geopolitical lens, this project has exposed the biases embedded in its portrayal of nations like China and Russia. Through the journey across Moscow, Yelizovo, Taiwan, and Urumqi, the constructed nature of geopolitical narratives becomes clear. The concept of collecting the political deck of cards demonstrates how power is framed and manipulated, in this case from a Eurocentric lens. The work of Marshall, while detailed and insightful, reinforces biased views of physical geography, subtly shaping perceptions to fit and provide support to existing power structures and prejudices in the media. The book’s framing influences how readers understand global politics, favoring certain perspectives while downplaying others. Recognizing these biases is crucial in questioning the narratives presented to the reader. This piece of media serves as a reminder that narratives are not just told—they are played like a game, with the most powerful holding the deck. Perhaps by understanding that the root of such ideologies comes from who has the most power, it is possible to realize that the true prisoner is the entire population, so long that they are influenced by geopolitical narratives.
+
+A treasure box opens in front of you, and a golden scroll rises out of it, glowing and shimmering.
+
+[[READ THE GOLDEN SCROLL|RESOURCES PAGE]]
+
+
+:: CONTROL ROOM {"position":"1925,700","size":"100,100"}
+''CONTROL ROOM''
+
+Where would you like to go?
+
+
+You have (print: $regions)/7 cards.
+
+[[RUSSIA|WELCOME TO: MOSCOW]]
+[[CHINA|WELCOME TO: TAIWAN]]
+(if: $regions >= 7)[[I HAVE ALL CARDS]]
+
+
+
+:: ECONOMIC POWER ANALYSIS {"position":"650,550","size":"100,100"}
+Once in Urumqi, you and the traveller sit down in a coffee shop below a towering office building. You pull out //Prisoners of Geography.//
+
+"I'm investigating this book specifically. Let us begin, shall we?"
+
+You flip open the book, landing on a page under the chapter on China.
+
+"Xinjiang is 642820 square miles, twice the size of Texas–or, to put it another way, you could fit the UK, France, Germany, Austria, Switzerland, the Netherlands and Belgium into it and still have room for Luxembourg. And Lichtenstein. (Marshall, 2016)" The traveller sits back. Tell me now, why is the spatial comparison of Xinjiang listed as states in the USA and countries in Europe, that many around the world may not know the sizes of?
+
+You lean forward. "Because this book is written for Europeans and Americans. Framing the land in terms of Western nations makes it more digestible to them, but it also subtly implies that size equals significance only if it can be measured by Western standards."
+
+The traveller nods approvingly.
+
+"The way space is constructed matters. Xinjiang is more than a geographical expanse, it is an economic hub for China. The land is abundant in resources, which results in "distributional inequality between Han Chinese and the ethnic minorities over the resource revenue results in more resistance from the Uyghurs, thus the government responds with a stricter social control."(Yin, 1970) One thing that this paper does not mention at all is the conflicts against the Uyghur peoplee. Over so many pages about Xinjiang, it is not mentioned once what they are going through. This represents that despite the book having a Western narrative, in this situation it is also benefiting the Han Chinese people. The voice of the Uyghur people is completely missing from the entire narrative.
+
+You nod. "It seems the author has silenced numerous groups within a larger group. Even with the money pouring out of the nation, if Xinjiang is seen as "a remote backwater " (Marshall, 2016) instead of a crucial trade hub, then China's economic rise can be dismissed as fragile, rather than a direct challenge to Western economic dominance."
+
+[[Continue|(GEO)POLITICAL POWER ANALYSIS]]
+
+
+:: FALSE {"position":"1000,725","size":"100,100"}
+"It seems you need to think back a little harder to the analysis we just came up with. Goodbye, fellow traveller."
+
+You stumble and fall off the hull of the ship in your protest.
+
+''YOU HAVE FAILED THIS LEVEL! RETURNING TO CONTROL ROOM''
+
+[[Continue|CONTROL ROOM]]
+
+
+:: Historian's Library {"position":"1725,100","size":"100,100"}
+''HISTORIAN'S LIBRARY''
+
+You wander into the library, a fan quietly running in the corner. It is stacked with books, mostly in Russian, a few in English and some in languages you cannot make out. A man sits at a desk in the back, and you approach him.
+
+"I'm looking for information on Russia. I want to know if you have any information about Russia and the Deck of Power."
+
+He looks up at you, eyeing //Prisoners of Geography// in your hands warily. "Ah. That book. Many Westerners come in here clutching it as if it holds the ultimate truth about my country. Do you truly want to understand Russia? Then let’s start by understanding the narratives shaping what you read."
+
+He gestures toward a chair across from him, motioning for you to sit. You place the book on the desk, its cover facing up, the page open on a map of Russia and its surrounding countries.
+
+[[Continue|Analysing Russia]]
+
+
+:: I HAVE ALL CARDS {"position":"2100,975","size":"100,100"}
+All of the screens in the Control Room light up, reading the same message.
+
+''You have now gotten all of the cards. In this world, the power is now all yours. With all the power in your hands, you are now able to make happen what you want in spite of obstacles, resistance, or opposition in this world (Yusuf, 2025)''
+
+
+
+[[Write What You Learned |REFLECTION]]
+
+
+:: I Need Power {"position":"2700,500","size":"100,100"}
+The bear looks at you, before closing its eyes. 
+
+"You, like those before you cannot be helped. You must understand that there is always more to the picture than what is told in the media." 
+
+It turns back into stone as you shake your fists up at the statue. Around you, tourists and locals alike look puzzled at the display you are putting on.
+
+''YOU HAVE FAILED THIS LEVEL.''
+
+
+[[Return to the Control Room|CONTROL ROOM]]
+
+
+:: I Seek Knowledge {"position":"2825,375","size":"100,100"}
+My traveller friend, few are wise like you are. Many have seeked the power of the bear, but they do not understand. What began as a symbol of revolution and resilience has been twisted to something else entirely." The bear sighs.
+
+"To my own people, I am a guardian. Strong and enduring, a force of nature that protects rather than destroys. But to those beyond my borders, I have become a beast of menace, a creature of fear. They do not see the warmth in my embrace, only the imagery of power."
+
+You pause, considering the words. The imagery of the Russian bear, often used in Western media, has long portrayed Russia as an aggressive, expansionist force. As stated in the novel, "When writers seek to get to the heart of the bear they often use Winston Churchill’s famous observation of Russia, made in 1939: 'it is a riddle wrapped in a mystery inside an enigma'" (Marshall, 2016). By portraying the country as vast, with a fearful national symbol, it is possible to paint the nation as a distant land to be feared. This existing symbol serves as a narrative that provides that Russia is indeed cold and distant.
+
+The bear continues speaking. "Historically, the bear was a symbol of national pride—representing perseverance, not hostility. Scholars argue that this depiction serves a geopolitical purpose: reinforcing narratives that justify caution, containment, or even opposition. The bear tilts its head. "You seem to understand the impact of these ideologies. I will help you find what you seek."
+
+[[Continue|ANALYSIS: YELIZOVO]]
+
+
+:: I Seek Power {"position":"2700,375","size":"100,100"}
+"I Seek Power!" You call out to the bear, your mind set on getting all the cards and getting out of here.
+
+The bear looks at you, seemingly saddened by your words. 
+
+"Do you truly seek power? Or do you seek to understand?"
+
+[[I Seek Knowledge]]
+[[I Need Power]]
+
+
+:: INFORMATIONAL + MILITARY POWER {"position":"2100,250","size":"100,100"}
+The Historian leans back in his chair, reaching into a drawer.
+
+"It seems you have learned a lot while you were here. I believe that this is rightfully yours."
+
+''YOU GOT CARDS!''
+
+''INFORMATIONAL POWER''
+''MILITARY POWER''
+(set: $regions to $regions + 1)
+(set: $regions to $regions + 1)
+
+With the cards, he slides you a plane ticket. "The book mentions another important figure of Russian history-The Russian Bear. But the narratives for the Bear are unjust. If you seek another card, you must first find it and learn from its wisdom. This is the place for you to start."
+
+You look down at the plane ticket in your hand, reading it. 
+
+''SVO: Moscow Sheremetyevo Alexander S. Pushkin International Airport to PKC: Petropavlovsk-Kamchatsky Airport, Yelizovo, Russia ''
+
+You thank the Historian one last time before getting in a taxi and heading to the airport.
+
+[[CONTINUE|WELCOME TO: YELIZOVO]] 
+
+
+:: INTRO {"position":"200,75","size":"100,100"}
+You yawn after a long day, tired of all the work you have had to catch up on. Finally having the chance to take a breather, you reach over and pick up the book you recently grabbed from the library to analyse for a school project.
+
+//''Prisoners of Geography - Ten Maps That Tell You Everything You Need To Know About Geopolitics By Tim Marshall''//
+
+Sitting down at your desk, you flip open your notebook and start writing.
+
+//With the ongoing reign of the United States as the world’s sole superpower, it is only crucial to question the extent of its influence in the world today. Across all cards of power-military, economic, geographic, geopolitical, technological, soft and informational(Yusuf, 2025)-the dominance of certain nations becomes visible. This project revolves around analysing “Prisoners of Geography” by Tim Marshall through a critical geopolitical lens, examining how global powers like the USA, China and Russia are portrayed in the media, and questioning how power, knowledge, and bias shape global perceptions of each nation. This project covers the first two chapters of the novel-Russia and China. This analysis explores how physical geography and geopolitical factors influence each country’s power structures, revealing the assumptions, strategies, and consequences embedded within these representations.//
+
+Satisfied, you glance over at the book sitting on your desk. Its glossy cover reflects the dim light as you flip through, letters and maps stretching over the pages. As you read them over, your vision blurrs slightly and the words slide out of focus.
+
+Suddenly, a bright, white light emits from the crack of the book. You let out a yell, temporarily blinded, and your world goes dark.
+
+[[Next|Name]]
+
+
+
+:: Mei's Home {"position":"950,1175","size":"100,100"}
+''MEI'S HOME''
+
+You step into Mei's apartment, and she ushers you to have a seat at the kitchen table, setting down two steaming mugs of tea. You take a sip, the warm and sweet flavours energizing you.
+
+"So, what brings you all the way to Taiwan? And what is that book that you have there? Do you mind if I take a look?"
+
+You reach into your bag, handing her the //Prisoners of Geography.//
+
+
+
+[[Continue|ANALYSING CHINA+TAIWAN'S SOFT AND TECHNOLOGICAL POWER]]
+
+
+:: Name {"position":"350,75","size":"100,100"}
+(set: $name to (prompt: "Please enter your name", ""))
+
+[[Continue|Where in the World Are You?]]
+
+
+:: Putin's House {"position":"1750,250","size":"100,100"}
+''PUTIN'S HOUSE''
+
+You get out of the taxi, and stand tall at the gates leading to a large house. 
+
+"I am here to meet Putin!" You demand.
+
+Two guards at the gate pick you up and physically remove you from the property.
+
+[[Go to the Historian's Library|Historian's Library]]
+
+
+:: REFLECTION {"position":"2250,975","size":"100,100"}
+''REFLECTION''
+
+You pull out your notebook, writing what you have learned from your adventure into it.
+
+//Through analyzing 'Prisoners of Geography' by Tim Marshall through a critical geopolitical lens, it becomes evident that numerous implicit biases exist just beneath the surface of the text. The book explores how physical geography shapes the power structures of nations such as Russia and China, but it is important to consider the perspectives from which it is written and the audience it is intended for. While a nation's physical geography is unchangeable, the interpretation of its influence is debatable. Marshall’s arguments become more persuasive by framing geographic realities as forces capable of determining a nation's power. By using physical geography to justify political conclusions, the book presents a structured yet subtly biased view of international relations, shaping how readers perceive the geopolitical struggles of different nations. Analyzing this text critically allows for a deeper understanding of how geography is used not just as an explanatory tool, but also as a means of reinforcing existing power structures and views of the world.//
+
+[[Continue|THE HOODED MAN]] 
+
+
+:: REJECT {"position":"1000,550","size":"100,100"}
+The Traveller  laughs, his eyes crinkling. "It seems then, that you are not worthy for this challenge." He sits down, resting his eyes and falls asleep, speaking to you no more.
+
+''YOU HAVE FAILED THIS LEVEL! RETURNING TO CONTROL ROOM''
+
+[[Continue|CONTROL ROOM]]
+
+
+:: RESOURCES PAGE {"position":"2750,975","size":"100,100"}
+''RESOURCES PAGE''
+
+Hilpert, H. G. (2022). Dealing With Taiwan. Social Science Open Access Repository. 
+Khan *, H. A. (2004). Technology and economic development: The case of Taiwan. Journal of Contemporary China, 13(40), 507–521. https://doi.org/10.1080/1067056042000213373 
+
+Kolosov, V. A., Zotova, M. V., & Turov, N. L. (2022). Geopolitics and political geography in Russia: Global context and national characteristics. Regional Research of Russia, 12(1), 80–95. https://doi.org/10.1134/s2079970522020046 
+
+Magula, J., Rouland, M., & Zwack, P. (2022). NATO and Russia: Defense and deterrence in a time of conflict. Defence Studies, 22(3), 502–509. https://doi.org/10.1080/14702436.2022.2082957 
+
+Marples, D. R. (2011). Revisiting the Collapse of the USSR. Canadian Slavonic Papers, 53(2–4), 461–473. https://doi.org/10.1080/00085006.2011.11092684 
+
+Marshall, T. (2016). Russia. In Prisoners of Geography: Ten Maps That Explain Everything About The World (p. 12). essay, Scribner. 
+
+Riabov, O. (2020, July 23). The Birth of the Russian Bear? the bear symbol in the satirical journals of the Russian Revolution of 1905. Region: Regional Studies of Russia, Eastern Europe, and Central Asia. https://muse.jhu.edu/article/760828 
+
+Yin, W. (1970, January 1). The Natural Resource Curse in Xinjiang. CEU Political Science Journal. https://www.ceeol.com/search/article-detail?id=420732 
+
+Yusuf, I. (2025). Political Geography [PowerPoint slides]. Toronto Metropolitan University Global Political Geography
+
+
+TYFUMP - Thank You For Using My Program
+Maheen Qureshi, 2025
+
+
+:: Russian Informational and Military Power {"position":"2100,100","size":"100,100"}
+You pause and think, before flipping to another page in the book. "Observe this statement here."
+
+"Since then the Russians have watched anxiously as NATO has crept steadily closer, incorporating countries that Russia claims it was promised would not be joining. (Marshall, 2016)"
+
+You look up at the Historian, continuing. "This statement from the novel is related to the military power that Russia holds compared to NATO. The wording 'watched anxiously' is showing that Russia is a fearful and paranoid country, while NATO is represented as the heroes and naturally right decision. Not only is this showing a Eurocentric perspective, but it is also justifying any military decisions that NATO does as correct, while what Russia does as corrupt. It makes the audience want to side with NATO and feel accomplished seeing progress they have made, such "targeting Russia's ability to import military weapons."(Magula et al., 2022) This also shows how they have the upper hand in informational power, with knowledge about where and which weapons Russia is importing. If you look closely however, Russia is doing what any nation would do. They are strategizing and concerned for their country in this situation, which is something that the west is doing as well on the other side."
+
+The historian nods, intrigued, as you continue.
+
+"Now, let’s look at what the author states about Russia's alliances."
+
+“Of the five, Kazakhstan and Belarus have joined Russia in the new Eurasian Union (a sort of poor man’s EU) and all are in a military alliance with Russia called the Collective Security Treaty Organization. The CSTO suffers from not having a name you can boil down to one word, and from being a watered-down Warsaw Bloc (Marshall, 2016)."
+
+By using words such as 'watered-down' and 'poor man's', the narrative is structuring Russia's regional influence as weaker in comparison to the West. The language used is explicitly undermining Russia’s attempts at regional influence. One may ask, who controls the production of this narrative? It is visible that it clearly is Western media and political analysts, who benefit from maintaining an image that pushes Russia down and represents the West as on a higher pedestal. However, it is important to note that Russia does have an existing and active military, and does hold its own cards of power, while they don't parallel the strength of the west.
+
+The historian leans back in his chair, impressed. "So, Russia’s narratives are controlled globally by the informational power of other nations."
+
+"Exactly," you say. "By controlling narratives, the West is able to shape who is seen as powerful and who is not. Informational Power is the ability to control, manipulate and strategically use information to influence international relations and achieve its foreign policy objectives (Yusuf, 2025)."
+
+[[Continue|INFORMATIONAL + MILITARY POWER]]
+
+
+
+:: SOFT + TECHNOLOGICAL POWER {"position":"625,1175","size":"100,100"}
+Mei takes a last sip of her tea, standing up.
+
+"I believe you know a lot more than you did when you walked through the door now. This has been a very interesting conversation. Come with me, there's a place you need to see."
+
+The two of you hop in her car and drive to Chiang Kai-shek Memorial Hall. She drops you off, waving her hand. "You'll find what you need here!"
+
+The area is surrounded with tourists observing the gardens and architecture of the hall. You wander amongst the rooms, finally reaching a small pond in a corner of the area. A glowing rectangle is visible in the water, and you reach down, pulling it out.
+
+''YOU GOT CARDS!''
+
+''SOFT POWER''
+''TECHNOLOGICAL POWER''
+
+(set: $regions to $regions + 1)
+(set: $regions to $regions + 1)
+
+The cards glow in your hand, and before you know it everything goes dark and you see nothing more.
+
+[[CONTINUE|WELCOME TO: URUMQI, XINJIANG]] 
+
+
+:: Shout at him for answers {"position":"625,75","size":"100,100"}
+Eyes tearing up, you shout at his receding back. "What are you doing to me? Who are you? Where am I?"
+
+The man says nothing, walking away slowly, leaving nothing but you and the empty darkness behind. You struggle and escape from your binds, finding a small notebook in your pocket. 
+
+''Item Equipped! You have a notebook.''
+
+Flipping to the first page, you read a message scrawled in your own handwriting.
+
+"''MISSION BACKGROUND: ''To critically analyze the media, it is important to define key concepts related to geopolitics, geography, and power. Geopolitics refers to the interaction between geography, politics, and power, exploring how geographic factors influence political relations and power distribution among nations (Yusuf, 2025). Geopolitical analysis examines how borders, resources, and physical geography shape national strategies, security, and foreign policies. A critical approach goes beyond traditional analysis by questioning the power structures and ideologies that underpin these narratives.
+
+Geography plays a significant role in geopolitics, impacting how governments structure their decisions and strategies by determining physical landscapes, resources, and populations (Hilpert, 2022). Geography can be a source of power or a limitation. Tim Marshall’s work in Prisoners of Geography exemplifies how geography is used to explain political decisions and power imbalances, particularly focusing on Russia and China in the first two chapters.
+
+The concept of power in geopolitics may be represented with the political deck of cards (Yusuf, 2025). The United States, in the present world today is the single nation that holds all seven cards, labelling it with the title of a Superpower. Meanwhile, countries like Russia come close to having as many cards but fall short due to specific geographic challenges. Marshall’s analysis suggests that Russia’s vast size and harsh climate create strategic difficulties, limiting its influence despite its military and economic capabilities (Marshall, 2016). Similarly, while China’s economic rise is highlighted, its territorial claims and internal issues, such as the treatment of Uyghur Muslims, often remain ignored and deemed irrelevant (Yin, 1970).
+
+A critical reading of Marshall’s work reflects a Eurocentric narrative, specifically in shaping global perceptions of Russia and China. For example, his portrayal of Russia’s geographical disadvantage downplays its military strength, while China’s rise is framed in a way that ignores its social and political challenges. This selective narrative manipulation shows how geopolitics can be influenced by political agendas. Examining Marshall’s work through a critical geopolitical lens reveals that geography is far from being irrelevant to political decisions; it shapes global perceptions, influenced by those who control the narrative and the political structures behind them."
+
+Suddenly, all the screens in the room flash on, some glitching showing maps, others showing clips of historical events. The largest screen in front of you reads a single message.
+
+[[Continue|CONTROL ROOM]] 
+
+
+:: Sit in silence and hope he doesn't come back {"position":"500,200","size":"100,100"}
+You sit in silence, wishing that the man wouldn't come back. You struggle and escape from your binds, finding a small notebook in your pocket. 
+
+''Item Equipped! You have a notebook.''
+
+Flipping to the first page, you read a message scrawled in your own handwriting.
+
+"''MISSION BACKGROUND: ''To critically analyze the media, it is important to define key concepts related to geopolitics, geography, and power. Geopolitics refers to the interaction between geography, politics, and power, exploring how geographic factors influence political relations and power distribution among nations (Yusuf, 2025). Geopolitical analysis examines how borders, resources, and physical geography shape national strategies, security, and foreign policies. A critical approach goes beyond traditional analysis by questioning the power structures and ideologies that underpin these narratives.
+
+Geography plays a significant role in geopolitics, impacting how governments structure their decisions and strategies by determining physical landscapes, resources, and populations (Hilpert, 2022). Geography can be a source of power or a limitation. Tim Marshall’s work in Prisoners of Geography exemplifies how geography is used to explain political decisions and power imbalances, particularly focusing on Russia and China in the first two chapters.
+
+The concept of power in geopolitics may be represented with the political deck of cards (Yusuf, 2025). The United States, in the present world today is the single nation that holds all seven cards, labelling it with the title of a Superpower. Meanwhile, countries like Russia come close to having as many cards but fall short due to specific geographic challenges. Marshall’s analysis suggests that Russia’s vast size and harsh climate create strategic difficulties, limiting its influence despite its military and economic capabilities (Marshall, 2016). Similarly, while China’s economic rise is highlighted, its territorial claims and internal issues, such as the treatment of Uyghur Muslims, often remain ignored and deemed irrelevant (Yin, 1970).
+
+A critical reading of Marshall’s work reflects a Eurocentric narrative, specifically in shaping global perceptions of Russia and China. For example, his portrayal of Russia’s geographical disadvantage downplays its military strength, while China’s rise is framed in a way that ignores its social and political challenges. This selective narrative manipulation shows how geopolitics can be influenced by political agendas. Examining Marshall’s work through a critical geopolitical lens reveals that geography is far from being irrelevant to political decisions; it shapes global perceptions, influenced by those who control the narrative and the political structures behind them."
+
+Suddenly, all the screens in the room flash on, some glitching showing maps, others showing clips of historical events. The largest screen in front of you reads a single message.
+
+[[Continue|CONTROL ROOM]] 
+
+
+:: THE HOODED MAN {"position":"2425,975","size":"100,100"}
+After all of your travels, and the mission to collect the Deck of Power, you finally arrive at the heart of the conflict—the control room, the controller of the narratives and media that lie in this book.
+
+The Hooded Man stands in the center of the control room, his face grim.
+
+"You're cornered," you call out, approaching the man. "You can no longer use your geopolitical biases to shift narratives. Take off your hood! Let us see who you truly are!"
+
+The man looks up at you, slowly removing his hood. You step back in shock.
+
+"My name is Tim Marshall. I'm the author of the book. You, (print: $name), have won the game."
+
+The author walks off, leaving you alone in the vast, empty control room. The Deck of Power is now in your hands. The world waits to see what story you will tell next.
+
+[[Write the Conclusion|CONCLUSION]]
+
+
+
+
+:: THE RUSSIAN BEAR {"position":"2700,250","size":"100,100"}
+''THE RUSSIAN BEAR''
+
+After about an hour of walking, you wipe the sweat off your brow and finally see a statue of two bears standing, reading the words "RUSSIA BEGINS HERE." The statue stands proud in the midst of the land, and you realize you are close to the airport as planes fly overhead.
+
+You walk up to the bears, feeling mildly foolish. "Do you know anything about the cards of power?," you say, and the statue stands still and unmoving.
+
+Taking a deep breath, you try saying the same sentence louder, but to no avail. The bears continue standing still and unmoving.
+
+Pulling out your phone, you try asking the same thing through your translation app in Russian. 
+
+You scream as one of the bears turns to look at you.
+
+"It seems you have come at last, young one." She says, looking at you with a soft gaze. You have travelled long ways to come visit me, I can sense it by looking at you. What do you seek? Tell me, O traveller."
+
+[[I Seek Knowledge]]
+[[I Seek Power]]
+
+
+:: TRUE {"position":"850,875","size":"100,100"}
+The Traveller beams. "That is correct! I believe these two things are rightfully yours."
+
+Your jaw drops in shock. Did he have the cards with him this whole time?
+
+''YOU GOT CARDS!''
+
+''ECONOMIC POWER''
+''(GEO)POLITICAL POWER''
+
+(set: $regions to $regions + 1)
+(set: $regions to $regions + 1)
+
+You thank the Traveller, and hike back towards the distant mountains.
+
+[[Continue|CONTROL ROOM]]
+
+
+:: WELCOME TO: MOSCOW {"position":"1475,150","size":"100,100"}
+''WELCOME TO: MOSCOW''
+
+You feel an electric buzz around you as you open your eyes slowly, taking in the world around you. People bustle on the streets and the warm summer sun shines on your face.
+
+You have arrived in Moscow, the heart of Russian political and informational power. A river runs by on one side of the cobblestone street, while churches and office buildings line the other. The golden domes of the Kremlin gleam in the sunlight, a symbol of both religious and state power.
+
+As you walk through Red Square, the presence of history and media narratives becomes evident. Billboards display news broadcasts, political speeches, and editorials dissecting global events. You notice a massive screen playing an English-language report on Russia’s role in global politics.
+
+Where do you want to go?
+
+[[Historian's Library]]
+[[Putin's House]]
+
+
+:: WELCOME TO: TAIWAN {"position":"1100,1175","size":"100,100"}
+''WELCOME TO: TAIWAN''
+
+You arrive in Taiwan, greeted by the bustling streets of Taipei. On the surface, it looks like any other thriving metropolitan city. A local walks by with a friendly smile, offering a quick nod. You approach her, eager to find a card from the deck of power.
+
+"Do you think you can tell me something, anything at all about Taiwan?"
+
+She smiles at me mysteriously. "I believe you have come to just the right person, and just the right place. My name is Mei. What is yours?"
+
+
+(print: $name)," you respond. 
+
+"It's nice to meet you, (print: $name). Come with me! I'll tell you more about our nation and where we stand."
+
+
+[[Continue|Mei's Home]]
+
+
+:: WELCOME TO: URUMQI, XINJIANG {"position":"650,700","size":"100,100"}
+''WELCOME TO: URUMQI, XINJIANG''
+
+The warm desert wind replaces the metropolitan sounds of Taiwan, as you step onto solid ground. Dust swirls in the air, and the towering mountains of Xinjiang loom in the distance. The vast, arid landscape stretches as far as the eye can see—a land that has long been a crossroads of trade, empire, and control.
+
+A figure waits for you at the edge of the road.  A man with worn boots, a leather bag slung over his shoulder, and the air of someone who has seen too much. He must be a traveller, like how you are.
+
+"Welcome to Xinjiang," he says, his voice measured. "A land of wealth, power, and control. But I wonder… what do you seek?"
+
+"I'm here to find the cards of power," you breathe. The traveller looks at you warily. "It seems you have much to learn, if you have come all the way to Xinjiang to find them. We are close to the city. Let us go there and you may find what you seek.
+
+The two of you head to a skyline in the distance-the capital of Xinjiang, Urumqi.
+
+
+[[Continue|ECONOMIC POWER ANALYSIS]]
+
+
+:: WELCOME TO: YELIZOVO {"position":"2700,125","size":"100,100"}
+''WELCOME TO: YELIZOVO, SIBERIA, RUSSIA''
+
+You open your eyes, waiting for the cold and ice to bite your skin. 
+
+Instead, you are met by a cool breeze similar to that of Moscow. You frown. Was Siberia not supposed to be a barren, unforgiving land?
+
+Wandering down a street, you are surprised how different it looked from your imagination. Lush green trees and apartment buildings line the street on either side of you, and you walk further down the street in a daze.
+
+A man walks past, and you stop him. "I'm looking for the Russian Bear!"
+
+He looks over at you, and pulls out a pen and paper, writing down what looks like an address in Russian. You thank him, travelling in the direction stated on the note.
+
+[[Continue|THE RUSSIAN BEAR]]
+
+
+:: Where in the World Are You? {"position":"500,75","size":"100,100"}
+Your eyes flutter open, as you sit on a chair, wrists bound to its arms. Trying to move, the restraints do not budge.
+
+"Detective (print: $name). I see you have finally regained consciousness. Did you really think you would get away with it this time?"
+
+As you turn your head, eyes focusing slowly in the darkness, a man stands in front of you. His face is in a shadow, and he wears a dark hood. You are surrounded by old-fashioned televisions, their screens dark, wires running all around you in the room.
+
+Turning your head, you turn your attention to the Hooded Man once more.
+
+"You escaped once. It will not happen again." 
+
+With that statement, he swiftly turns around and starts walking away. "Try and escape now, Detective. This truth you're trying to bring to light will never make it. //You have no cards.//
+
+[[Shout at him for answers]]
+[[Sit in silence and hope he doesn't come back]]
+
